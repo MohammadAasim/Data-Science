@@ -1,0 +1,7 @@
+Python Data Structures
+From Data Structures
+From Python Data
+So we can write some smart things, right? So a counting loop, let's just do counting. So now we actually have something to count where we don't exactly know how many things there are, right? If you go back a couple chapters, we were counting things, we knew how many things there are. But now we don't. So, we set the counter to 0, and then we loop through each line, or don't do anything with the line, count = count + 1, and we're done. We know that this file has 132045 lines, right? And away we go. So, we have built a line counter, a file length counter, just by From looping through that. Simple stuff. Now sometimes, not so much when we're doing files but often when reading data from elsewhere, we want to read it all. And so this time, we will read the whole thing in with .read. Now the thing about this is, it doesn't split it into lines. It actually just reads all the stuff From with a newline, all the stuff with a newline, so you've got to be careful. But of course if you print it out, it will give you all the newlines because the print will show the newlines. 
+From Last Line
+From Data Structures
+From Python Data
